@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lmindustry:block/mixer" },
+    "facing=east": { "model": "lmindustry:block/mixer" ,"y": 90},
+    "facing=south": { "model": "lmindustry:block/mixer" ,"y": 180},
+    "facing=west": { "model": "lmindustry:block/mixer" ,"y": 270}
+  }
+}

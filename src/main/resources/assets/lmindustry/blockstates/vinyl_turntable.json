@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lmindustry:block/vinyl_turntable" },
+    "facing=east": { "model": "lmindustry:block/vinyl_turntable" ,"y": 90},
+    "facing=south": { "model": "lmindustry:block/vinyl_turntable" ,"y": 180},
+    "facing=west": { "model": "lmindustry:block/vinyl_turntable" ,"y": 270}
+  }
+}

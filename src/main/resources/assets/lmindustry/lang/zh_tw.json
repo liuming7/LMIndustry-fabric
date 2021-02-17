@@ -1,0 +1,14 @@
+{
+  "itemGroup.lmindustry.household_electric_appliances": "家用電器",
+  "block.lmindustry.radio": "收音機",
+  "item.lmindustry.radio": "收音機",
+  "block.lmindustry.electric_oven": "電烤箱",
+  "item.lmindustry.electric_oven": "電烤箱",
+  "container.electric_oven": "電烤箱",
+
+  "itemGroup.lmindustry.night_club_devices": "夜店器材",
+  "block.lmindustry.vinyl_turntable": "黑膠唱機",
+  "item.lmindustry.vinyl_turntable": "黑膠唱機",
+  "block.lmindustry.mixer": "混音台",
+  "item.lmindustry.mixer": "混音台"
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.lmindustry.household_electric_appliances": "Household Electric Appliances",
+  "block.lmindustry.radio": "Radio",
+  "item.lmindustry.radio": "Radio",
+  "block.lmindustry.electric_oven": "Electric Oven",
+  "item.lmindustry.electric_oven": "Electric Oven",
+  "container.electric_oven": "Electric Oven",
+
+  "itemGroup.lmindustry.night_club_devices": "Night Club Devices",
+  "block.lmindustry.vinyl_turntable": "Vinyl Turntable",
+  "item.lmindustry.vinyl_turntable": "Vinyl Turntable",
+  "block.lmindustry.mixer": "Mixer",
+  "item.lmindustry.mixer": "Mixer"
+}

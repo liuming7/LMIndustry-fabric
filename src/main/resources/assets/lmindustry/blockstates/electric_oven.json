@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lmindustry:block/electric_oven" },
+    "facing=east": { "model": "lmindustry:block/electric_oven" ,"y": 90},
+    "facing=south": { "model": "lmindustry:block/electric_oven" ,"y": 180},
+    "facing=west": { "model": "lmindustry:block/electric_oven" ,"y": 270}
+  }
+}
